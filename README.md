@@ -1,4 +1,3 @@
-# Coding Exercises — Stata & R
+# Coding Exercises
 
-A collection of exercises from my coursework, showing my work in **Stata** and **R**. 
-
+This repo contains coding exercises I completed as part of my coursework and research.
